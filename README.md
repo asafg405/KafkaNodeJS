@@ -1,7 +1,7 @@
 # Kafak NodeJS Producer And Consumer
 Kafka Producer And Consumer 
 
-Init:
+Docker Setup:
 
 1.docker-compose up -d
 
